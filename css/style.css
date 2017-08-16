@@ -1,3 +1,45 @@
+.language-dropup {
+  display: inline;
+}
+.country-flag,
+.navbar-logo {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  text-align: center;
+}
+.country-flag > img,
+.navbar-logo > img {
+  max-height: 20px;
+  height: 100%;
+  display: inline;
+}
+.country-flag > span {
+  vertical-align: middle;
+  font-size: 15px;
+}
+.dashboard-navbar {
+  background-color: rgba(255,255,255,0.95);
+}
+.navbar-logo {
+  margin-right: 20px;
+}
+.navbar-logo > span {
+  font-size: 20px;
+}
+.dropdown-toggle {
+  font-size: 15px;
+}
+.body {
+  background: rgba(203, 203, 210, 0.15);
+}
+
+
 /* Country ===================================== */
 .country {
   color: #777; }
