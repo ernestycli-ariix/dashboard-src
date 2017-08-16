@@ -24,7 +24,7 @@
   font-size: 15px;
 }
 .dashboard-navbar {
-  background-color: rgba(255,255,255,0.95);
+  background-color: rgba(255,255,255,0.95) !important;
 }
 .navbar-logo {
   margin-right: 20px;
