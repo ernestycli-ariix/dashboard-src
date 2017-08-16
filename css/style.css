@@ -1,3 +1,35 @@
+/* Country ===================================== */
+.country
+{
+  color: #777;
+}
+
+.country:hover
+{
+  color: #0070c9;
+  text-decoration: none;
+}
+
+.country > div
+{
+  margin-bottom: 25px;
+}
+
+.country> div > span
+{
+  vertical-align: middle;
+}
+
+.country:hover > div > span
+{
+  text-decoration: underline;
+}
+
+.country > div > img
+{
+  border: 1px solid #e0e0e0;
+}
+
 /* Login ======================================= */
 
 .form-signin
