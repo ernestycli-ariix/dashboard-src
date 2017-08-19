@@ -2838,7 +2838,7 @@ section.content {
   -ms-box-shadow: none;
   box-shadow: none;
   border: none;
-  color: #fff !important; }
+  color: #fff; }
   .alert .alert-link {
     color: #fff;
     text-decoration: underline;
