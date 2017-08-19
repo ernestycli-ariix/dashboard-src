@@ -1,11 +1,4 @@
-.footer > .container {
-  margin-top: 30px;
-  margin-bottom: 10px;
-}
 #footer-form {
-  display: inline;
-}
-#footer-form > div {
   display: inline;
 }
 .language-dropup {
