@@ -5,6 +5,9 @@
 #footer-form {
   display: inline;
 }
+#footer-form > div {
+  display: inline;
+}
 .language-dropup {
   display: inline;
 }
