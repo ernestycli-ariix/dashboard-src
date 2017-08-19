@@ -2,6 +2,9 @@
   margin-top: 30px;
   margin-bottom: 10px;
 }
+#footer-form {
+  display: inline;
+}
 .language-dropup {
   display: inline;
 }
