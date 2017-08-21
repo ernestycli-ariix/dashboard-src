@@ -1,6 +1,10 @@
 #footer-form {
   display: inline;
 }
+.footer > .container {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 .language-dropup {
   display: inline;
 }
